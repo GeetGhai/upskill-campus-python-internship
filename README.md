@@ -1,6 +1,4 @@
-Here’s a sample `README.md` file for your GitHub project:
 
-```markdown
 # Upskill Campus Python Internship
 
 Welcome to the **Upskill Campus Python Internship** repository! This repository contains all the tasks and projects completed during my internship with Upskill Campus. The focus of this internship was to strengthen my Python programming skills and apply them to various real-world tasks and challenges.
